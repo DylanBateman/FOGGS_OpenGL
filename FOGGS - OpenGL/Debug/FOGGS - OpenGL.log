@@ -1,0 +1,4 @@
+﻿  OBJLoader.cpp
+C:\Users\Dylan\Desktop\FOGGS - OpenGL\FOGGS - OpenGL\OBJLoader.cpp(54,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+C:\Users\Dylan\Desktop\FOGGS - OpenGL\FOGGS - OpenGL\OBJLoader.cpp(41): warning C4172: returning address of local variable or temporary: norm
+  FOGGS - OpenGL.vcxproj -> C:\Users\Dylan\Desktop\FOGGS - OpenGL\Debug\FOGGS - OpenGL.exe
