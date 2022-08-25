@@ -1,8 +1,6 @@
 
 # OpenGL Assignment
 
-
-## Project Description 
 In this project I learnt the basics of 3D rendering and further developed the C++ skills I began learning in the first semester of university.
 
 This project was completed in the second semester of my 'Fundamentals of Game & Graphical Systems' module in the first year of my 'Computer Games Development' degree at Staffordshire University.
